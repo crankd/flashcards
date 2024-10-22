@@ -6,4 +6,4 @@ Tools and content for teaching French curriculum.
 
 Tool to paste content and generate flashcards.
 
-[Flashcards](/flashcards)
+[Flashcards](/flashcards/index.html)
