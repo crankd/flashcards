@@ -1,0 +1,13 @@
+aside#menu menu {
+	padding-inline-start: 0 !important;
+	margin: 0 !important;
+}
+aside#menu menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+menu li {
+	padding: 0.5rem;
+	/* margin: 0.5rem 0; */
+}
